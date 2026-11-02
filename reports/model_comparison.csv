@@ -1,0 +1,4 @@
+model,PR-AUC,ROC-AUC,precision@top10%,recall@top10%
+Logistic,0.116,0.722,0.112,0.212
+RandomForest,0.062,0.531,0.076,0.143
+XGBoost,0.107,0.713,0.116,0.219
