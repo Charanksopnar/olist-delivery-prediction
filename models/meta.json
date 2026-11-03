@@ -1,0 +1,1 @@
+{"columns": ["estimated_days", "customer_state", "n_items", "n_sellers", "total_price", "total_freight", "total_weight_g", "total_volume_cm3", "category", "max_installments", "payment_type", "seller_state", "distance_km", "same_state", "purchase_month", "purchase_weekday", "purchase_hour", "freight_ratio", "is_weekend", "price_per_item"]}
